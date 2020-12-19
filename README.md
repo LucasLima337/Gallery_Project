@@ -14,6 +14,11 @@
 [![webpack](https://img.shields.io/static/v1?label=&message=Webpack&color=8DD6F9&style=flat&logo=Webpack)](https://github.com/LucasLima337)
 
 ### ❗📚 Informação
+* #### Comando para instalar as dependências:
+```sh
+npm i
+```
+
 * #### Comando para rodar a aplicação:
 ```sh
 npm start
