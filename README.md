@@ -1,6 +1,6 @@
-# 📸🖼 Projeto Galeria
+# 📸🖼 Gallery Project
 
-### 💻🛠 Tecnologias Utilizadas:
+### 💻🛠 Technologies:
 [![html](https://img.shields.io/static/v1?label=&message=HTML&color=9B0A00&style=flat&logo=html5)](https://github.com/LucasLima337)
 [![css](https://img.shields.io/static/v1?label=&message=CSS&color=1572B6&style=flat&logo=css3)](https://github.com/LucasLima337)
 
@@ -13,13 +13,13 @@
 [![npm](https://img.shields.io/static/v1?label=&message=NPM&color=CB3837&style=flat&logo=NPM)](https://github.com/LucasLima337)
 [![webpack](https://img.shields.io/static/v1?label=&message=Webpack&color=8DD6F9&style=flat&logo=Webpack)](https://github.com/LucasLima337)
 
-### ❗📚 Informação
-* #### Comando para instalar as dependências:
+### ❗📚 Information
+* #### Install dependencies command:
 ```sh
 npm i
 ```
 
-* #### Comando para rodar a aplicação:
+* #### Start application command:
 ```sh
 npm start
 ```
